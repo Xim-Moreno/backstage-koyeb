@@ -1,6 +1,6 @@
 app:
   title: Scaffolded Backstage App
-  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app/
+  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app:
 
 organization:
   name: My Company
@@ -12,7 +12,7 @@ backend:
   # auth:
   #   keys:
   #     - secret: ${BACKEND_SECRET}
-  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app/
+  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app:8000
   listen:
     port: 8000
     # Uncomment the following host directive to bind to specific interfaces
