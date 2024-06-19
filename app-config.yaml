@@ -1,6 +1,6 @@
 app:
   title: Scaffolded Backstage App
-  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app:
+  baseUrl: https://judicial-tiphany-boschmx-c47eaf82.koyeb.app
 
 organization:
   name: My Company
